@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Arsalan, a passionate Software Engineer with over 4 years of experience in developing and implementing IT solutions. I specialize in ASP.NET MVC/Core, RESTful APIs, and database management. My expertise spans from front-end technologies to back-end development, with a keen interest in data mining and machine learning.
+Hello! I'm Arsalan, a passionate Software Engineer with over 4 years of experience in developing and implementing IT solutions. I specialize in ASP.NET Core, MVC, RESTful APIs, and database management. My expertise spans from front-end technologies to back-end development, with a keen interest in data mining and machine learning.
 
 - 🔭 I'm currently working as a Software Engineer at UOW - University of Wah
 - 🌱 I'm continuously learning and exploring new technologies in web development and data science
