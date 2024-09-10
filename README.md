@@ -25,7 +25,7 @@ Hello! I'm Arsalan, a passionate Software Engineer with over 4 years of experien
 - **1LINK API Integration:** Implemented secure online fee payment system for university.
 - **Careers Portal:** Developed this portal which automates the recruitment process. 
 - **Admission Portal:** Developed and maintain the complete UW admission process.
-- **Convocation & Alumni Portal:** Created portals for convocation registration and alumni networking.
+- **Convocation & Alumni Portal:** Digitized the complete convocation and alumni process.
 - **Logistics Management Information System (LMIS):** Worked on reports for health and family planning initiatives.
 - **Convocation & Alumni Portal:**
 
