@@ -34,8 +34,8 @@ Development, Testing, and User Manual.
 
 ## 🎓 Education
 
-- **MSCS - Master's in Computer Science** (GPA: 3.83/4.00) | 2020 - 2022
-- **BSSE - Bachelor's in Software Engineering** (GPA: 3.2/4.00) | 2014 - 2018
+- **MSCS - Master's in Computer Science** (GPA: 3.83/4.00)    |   2020 - 2022
+- **BSSE - Bachelor's in Software Engineering** (GPA: 3.2/4.00)   |   2014 - 2018
 
 ## 📜 Certifications
 
