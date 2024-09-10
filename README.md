@@ -25,9 +25,13 @@ Hello! I'm Arsalan, a passionate Software Engineer with over 4 years of experien
 - **1LINK API Integration:** Implemented secure online fee payment system for university.
 - **Careers Portal:** Developed this portal which automates the recruitment process. 
 - **Admission Portal:** Developed and maintain the complete UW admission process.
+- - **Entry Portal:** Responsible for development and maintenance of Web-based online entry test portal. 
 - **Convocation & Alumni Portal:** Digitized the complete convocation and alumni process.
 - **Logistics Management Information System (LMIS):** Worked on reports for health and family planning initiatives.
-- **Convocation & Alumni Portal:**
+- **HR KP Portal:** In HR-KP Portal, the KP government can easily create doctor’s profiles, manage their personal, spouse, children’s, 
+educational, and post place information. In the project, I have worked in the following roles: Analysis, Software 
+Development, Testing, and User Manual.
+
 
 ## 🎓 Education
 
