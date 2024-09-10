@@ -32,7 +32,6 @@ Hello! I'm Arsalan, a passionate Software Engineer with over 4 years of experien
 educational, and post place information. In the project, I have worked in the following roles: Analysis, Software 
 Development, Testing, and User Manual.
 
-
 ## 🎓 Education
 
 - **MSCS - Master's in Computer Science** (GPA: 3.83/4.00) | 2020 - 2022
@@ -45,7 +44,7 @@ Development, Testing, and User Manual.
 - SCRUM (F) Certificate by SCRUMstudy
 - Web Designing and Development by Aptech
 
-## 📜 Tools
+## 🛠 Tools
 
 - Visual Studio
 - SQL Server
@@ -63,5 +62,3 @@ Development, Testing, and User Manual.
 
 - LinkedIn: [Arsalan Tahir](http://www.linkedin.com/in/arsalan-tahir-a500ab16b)
 - GitHub: [arslank001](https://github.com/arslank001)
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
