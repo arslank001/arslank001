@@ -46,7 +46,7 @@ educational, and post place information.
 ## 🛠 Tools
 
 - Visual Studio
-- SQL Server
+- MS SQL Server
 - MS Office
 - Brackets
 - Rapid Miner 
