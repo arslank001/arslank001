@@ -1,10 +1,10 @@
 # Arsalan Tahir
 
-👨‍💻 Software Engineer | 🎓 MSCS Graduate | 🌐 Full Stack Developer
+👨‍💻 Sr. Software Engineer | 🎓 MSCS Graduate | 🌐 Full Stack Developer
 
 ## About Me
 
-Hello! I'm Arsalan, a passionate Software Engineer with over 6 years of experience in developing and implementing IT solutions. I specialize in ASP.NET Core, MVC, RESTful APIs, and database management. My expertise spans from front-end technologies to back-end development, with a keen interest in data mining and machine learning.
+Hello! I'm Arsalan, Experienced Software Engineer with 6+ years of expertise in ASP.NET Core, MVC, Webforms, RESTful APIs, and SQL Server, delivering scalable web solutions for EdTech and HealthTech. Microsoft Certified Azure Developer Associate (AZ-204) with hands-on experience in Azure cloud services, performance optimization, and leading cross-functional development teams. Currently working as a Team Lead, driving high-impact projects and enterprise-level applications.
 
 - 🔭 I'm currently working as a Senior Software Engineer at UOW - University of Wah
 - 🌱 I'm continuously learning and exploring new technologies in web development and data science
@@ -13,11 +13,14 @@ Hello! I'm Arsalan, a passionate Software Engineer with over 6 years of experien
 
 ## 🛠 Technical Skills
 
-- **Languages:** C#, Python, JavaScript
-- **Web Technologies:** ASP.NET Core, MVC, Web Forms, HTML, CSS, jQuery, AJAX, Bootstrap
-- **Databases:** MS SQL Server, MySQL
-- **APIs:** RESTful APIs with JWT Authentication
-- **Other:** Data Mining, Machine Learning, Deep Learning (Research)
+- **Frameworks & Technologies:** ASP.NET Core, MVC, Web Form
+- **Frameworks & Technologies:** ASP.NET Core, MVC, Web Forms
+- **Databases:**  MS SQL Server, MySQL
+- **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap, AJAX
+- **Programming Languages:** C#, Python
+- **Cloud Services:** Microsoft Azure Services (App Service, SQL Database, Deployment)
+- **Tools & Platforms:** Postman, Visual Studio, Git, Swagger, Jupyter Notebook, RapidMiner, Brackets, MS Office
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, NLTK, spaCy
 
 ## 🚀 Projects
 
@@ -38,23 +41,11 @@ educational, and post place information.
 
 ## 📜 Certifications
 
-- Big Data by MapR Academy
-- Apache Hadoop by MapR Academy
+- Microsoft Certified: Azure Developer Associate (AZ-204)
+- Certificate in Big Data by MapR Academy	
+- Certificate in Apache Hadoop by MapR Academy
 - SCRUM (F) Certificate by SCRUMstudy
-- Web Designing and Development by Aptech
-
-## 🛠 Tools
-
-- Visual Studio
-- MS SQL Server
-- MS Office
-- Brackets
-- Rapid Miner 
-- Jupyter Notebook
-- Dreamweaver
-- Postman for API testing
-- Navicate
-- Netbeans
+- Certificate in Web Designing and Development by Aptech
 
 
 ## 📫 Connect with Me
