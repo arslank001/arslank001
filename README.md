@@ -41,11 +41,11 @@ educational, and post place information.
 
 ## 📜 Certifications
 
-- Microsoft Certified: Azure Developer Associate (AZ-204)
-- Certificate in Big Data by MapR Academy	
-- Certificate in Apache Hadoop by MapR Academy
-- SCRUM (F) Certificate by SCRUMstudy
-- Certificate in Web Designing and Development by Aptech
+- Microsoft Certified: **Azure Developer Associate (AZ-204)**
+- Certificate in **Big Data** by MapR Academy	
+- Certificate in **Apache Hadoop** by MapR Academy
+- **SCRUM (F)** Certificate by SCRUMstudy
+- Certificate in **Web Designing and Development** by Aptech
 
 
 ## 📫 Connect with Me
