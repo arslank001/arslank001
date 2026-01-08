@@ -41,7 +41,7 @@ educational, and post place information.
 
 ## 📜 Certifications
 
-- Microsoft Certified: **Azure Developer Associate (AZ-204)**
+- Microsoft Certified: **[Azure Developer Associate (AZ-204)](https://learn.microsoft.com/en-us/users/arsalantahir-7220/credentials/f1c4f4e00847cc8b?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
 - Certificate in **Big Data** by MapR Academy	
 - Certificate in **Apache Hadoop** by MapR Academy
 - **SCRUM (F)** Certificate by SCRUMstudy
