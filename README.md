@@ -13,7 +13,6 @@ Hello! I'm Arsalan, Experienced Software Engineer with 6+ years of expertise in 
 
 ## 🛠 Technical Skills
 
-- **Frameworks & Technologies:** ASP.NET Core, MVC, Web Form
 - **Frameworks & Technologies:** ASP.NET Core, MVC, Web Forms
 - **Databases:**  MS SQL Server, MySQL
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap, AJAX
