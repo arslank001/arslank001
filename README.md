@@ -9,7 +9,7 @@ Hello! I'm Arsalan, Experienced Software Engineer with 6+ years of expertise in 
 - 🔭 I'm currently working as a Senior Software Engineer at UOW - University of Wah
 - 🌱 I'm continuously learning and exploring new technologies in web development and data science
 - 📫 How to reach me: Arslank040@gmail.com
-- 📍 Location: Hassan Abdal District Attock, Punjab - Pakistan
+- 📍 Location: Islamabad - Pakistan
 
 ## 🛠 Technical Skills
 
