@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Arsalan, Experienced Software Engineer with 6+ years of expertise in ASP.NET Core, MVC, Webforms, RESTful APIs, and SQL Server, delivering scalable web solutions for EdTech and HealthTech. Microsoft Certified Azure Developer Associate (AZ-204) with hands-on experience in Azure cloud services, performance optimization, and leading cross-functional development teams. Currently working as a Team Lead, driving high-impact projects and enterprise-level applications.
+Hello! I'm Arsalan, Senior Software Engineer with 6+ years of experience architecting and delivering scalable web applications using ASP.NET Core, MVC, RESTful APIs, and SQL Server for EdTech and HealthTech platforms. Microsoft Certified Azure Developer Associate (AZ-204) with hands-on ownership of the full deployment lifecycle, from Azure cloud services to on-premises IIS infrastructure and hosting/domain administration. Currently leading a team of 8 developers, driving architecture, delivery, and mentorship for enterprise-level academic systems used by 10,000+ students and faculty.
 
 - 🔭 I'm currently working as a Senior Software Engineer at UOW - University of Wah
 - 🌱 I'm continuously learning and exploring new technologies in web development and data science
@@ -13,12 +13,13 @@ Hello! I'm Arsalan, Experienced Software Engineer with 6+ years of expertise in 
 
 ## 🛠 Technical Skills
 
-- **Frameworks & Technologies:** ASP.NET Core, MVC, Web Forms
-- **Databases:**  MS SQL Server, MySQL
+- **Frameworks & Technologies:** ASP.NET Core, ASP.NET MVC, RESTful APIs, Web APIs
+- **Databases:**  Microsoft SQL Server, MySQL
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap, AJAX
 - **Programming Languages:** C#, Python
-- **Cloud Services:** Microsoft Azure Services (App Service, SQL Database, Deployment)
-- **Tools & Platforms:** Postman, Visual Studio, Git, Swagger, Jupyter Notebook, RapidMiner, Brackets, MS Office
+- **Cloud Services:** Microsoft Azure (AZ-204 Certified) - App Services, Azure SQL Database, App Deployment
+- **Deployment & Infrastructure:** IIS, On-Premises & Hybrid Deployment, DNS Management, SSL Configuration, domain Provisioning
+- **Tools & Platforms:** Postman, Visual Studio, Git, Swagger, Jupyter Notebook, RapidMiner, Microsoft Office
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, NLTK, spaCy
 
 ## 🚀 Projects
@@ -30,8 +31,7 @@ Hello! I'm Arsalan, Experienced Software Engineer with 6+ years of expertise in 
 - **Entry Test Portal:** Responsible for development and maintenance of Web-based online entry test portal. 
 - **Convocation & Alumni Portal:** Digitized the complete convocation and alumni process.
 - **Logistics Management Information System (LMIS):** Worked on reports for health and family planning initiatives.
-- **HR KP Portal:** In HR-KP Portal, the KP government can easily create doctor’s profiles, manage their personal, spouse, children’s, 
-educational, and post place information.
+- **HR KP Portal:** In HR-KP Portal, the KP government can easily create doctor’s profiles, manage their personal, spouse, children’s, educational, and post place information.
 
 ## 🎓 Education
 
